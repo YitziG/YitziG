@@ -10,4 +10,4 @@ I am also spending lots of time on a top secret side-project that is going to ma
 - 💬 Ask me about anything.
 - 📫 How to reach me: [@codegician](twitter.com/codegician)
 
-[![asciicast](https://asciinema.org/a/SC199qfLuvZAnwlBZmjJDkY5V.svg)](https://asciinema.org/a/SC199qfLuvZAnwlBZmjJDkY5V)
+![](my_video.mov)
