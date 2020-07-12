@@ -1,9 +1,9 @@
 <div style="display:inline-block; width:auto; height:auto">
 
-  <img style="display:inline" width="33%" src="https://media.giphy.com/media/3o6fIPL8vBEqT2fwhq/giphy.gif" title="Github Logo">
+  <img style="display:inline" width="20%" src="https://media.giphy.com/media/3o6fIPL8vBEqT2fwhq/giphy.gif" title="Github Logo">
 
 
-  <img style="display:inline" width="66%" src="https://media-exp1.licdn.com/dms/image/C4D16AQH2uQsXrH_nbA/profile-displaybackgroundimage-shrink_350_1400/0?e=1599091200&v=beta&t=cdGPW8b0xSdcJTrGV-EY3x5I2nR0dXoUySCCgVotjnI" title="Github Logo">
+  <img style="display:inline" width="80%" src="https://media-exp1.licdn.com/dms/image/C4D16AQH2uQsXrH_nbA/profile-displaybackgroundimage-shrink_350_1400/0?e=1599091200&v=beta&t=cdGPW8b0xSdcJTrGV-EY3x5I2nR0dXoUySCCgVotjnI" title="Github Logo">
 
 </div>
 
