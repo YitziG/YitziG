@@ -1,7 +1,7 @@
 <div style="display:inline-block; width:auto; height:auto">
-<img style="display:inline" width="19%" src="https://media.giphy.com/media/Lny6Rw04nsOOc/giphy.gif">
+<img style="display:inline" width="25%" src="https://media.giphy.com/media/Lny6Rw04nsOOc/giphy.gif">
 
-<img style="display:inline" width="80%" src="https://media-exp1.licdn.com/dms/image/C4D16AQH2uQsXrH_nbA/profile-displaybackgroundimage-shrink_350_1400/0?e=1599091200&v=beta&t=cdGPW8b0xSdcJTrGV-EY3x5I2nR0dXoUySCCgVotjnI" title="Github Logo">
+<img style="display:inline" width="74%" src="https://media-exp1.licdn.com/dms/image/C4D16AQH2uQsXrH_nbA/profile-displaybackgroundimage-shrink_350_1400/0?e=1599091200&v=beta&t=cdGPW8b0xSdcJTrGV-EY3x5I2nR0dXoUySCCgVotjnI" title="Github Logo">
 </div>
 
 ### Hi there 👋
