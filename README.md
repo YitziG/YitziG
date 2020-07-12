@@ -10,6 +10,5 @@ I am also spending lots of time on a top secret side-project that is going to ma
 - 💬 Ask me about anything.
 - 📫 How to reach me: [@codegician](twitter.com/codegician)
 
-<video width="320" height="240" controls>
-  <source src="movies/file_example_MOV_480_700kB (1).mov" type="video/mp4">
-</video>
+![OMD, that smile...](https://media.giphy.com/media/3ndAvMC5LFPNMCzq7m/giphy.mp4){loop=""}
+
