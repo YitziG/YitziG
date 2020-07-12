@@ -1,4 +1,4 @@
-<div style="display:inline-block">
+<div style="display:inline-block; width:auto; height:auto">
 <div style="float:left" flex="33%">
   <img   src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" title="Github Logo">
 </div>
