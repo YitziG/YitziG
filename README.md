@@ -3,7 +3,7 @@
   <img style="display:inline" width="33%" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" title="Github Logo">
 
 
-  <img style="display:inline" width="33%" src="https://media-exp1.licdn.com/dms/image/C4D16AQH2uQsXrH_nbA/profile-displaybackgroundimage-shrink_350_1400/0?e=1599091200&v=beta&t=cdGPW8b0xSdcJTrGV-EY3x5I2nR0dXoUySCCgVotjnI" title="Github Logo">
+  <img style="display:inline" width="67%" src="https://media-exp1.licdn.com/dms/image/C4D16AQH2uQsXrH_nbA/profile-displaybackgroundimage-shrink_350_1400/0?e=1599091200&v=beta&t=cdGPW8b0xSdcJTrGV-EY3x5I2nR0dXoUySCCgVotjnI" title="Github Logo">
 
 </div>
 
