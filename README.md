@@ -1,4 +1,4 @@
-<img width="100%" src="https://media.giphy.com/media/VfK5nKsCS2ZepA48JI/giphy.gif" title="Github Logo">
+<img width="100%" src="https://media.giphy.com/media/VfK5nKsCS2ZepA48JI/giphy.gif">
 
 ### Hi there 👋
 
