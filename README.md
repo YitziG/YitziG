@@ -1,4 +1,6 @@
-<img src="https://credible-content.com/wp-content/uploads/2019/08/monkey-banner.gif">
+<div style="inline-block">
+<img style="max-width:100%; height: auto;" src="https://credible-content.com/wp-content/uploads/2019/08/monkey-banner.gif">
+</div>
 
 ### Hi there 👋
 - I'm currently developing internal documentation processes and interactive coding courses for some of the worlds best developers at [Wix](https://www.wix.com/).
