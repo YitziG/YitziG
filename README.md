@@ -1,6 +1,4 @@
-<div style="display:inline-block; ">
 <img src="https://images.app.goo.gl/4yaq4T9KGhYAc8YW8">
-</div>
 
 ### Hi there 👋
 
