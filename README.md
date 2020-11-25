@@ -1,5 +1,4 @@
 <img src="https://credible-content.com/wp-content/uploads/2019/08/monkey-banner.gif">
-
 ### Hi there 👋
 
 - I'm currently developing internal documentation processes and interactive coding courses for some of the worlds best developers at [Wix](https://www.wix.com/).
