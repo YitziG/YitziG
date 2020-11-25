@@ -1,5 +1,5 @@
 <div style="display:inline-block; ">
-<img style="display:inline" width="16%" src="https://images.app.goo.gl/4yaq4T9KGhYAc8YW8">
+<img style="display:inline" src="https://images.app.goo.gl/4yaq4T9KGhYAc8YW8">
 </div>
 
 ### Hi there 👋
