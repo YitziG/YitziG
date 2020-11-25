@@ -1,6 +1,4 @@
-<div style="display:inline-block; ">	<div style="display:inline-block; ">
 <img src="https://credible-content.com/wp-content/uploads/2019/08/monkey-banner.gif">
-</div>
 
 ### Hi there 👋
 
