@@ -1,5 +1,5 @@
 <div style="display:inline-block; ">	<div style="display:inline-block; ">
-<img style="display:inline" width="16%" src="https://credible-content.com/wp-content/uploads/2019/08/monkey-banner.gif">
+<img style="display:inline" src="https://credible-content.com/wp-content/uploads/2019/08/monkey-banner.gif">
 </div>
 
 ### Hi there 👋
