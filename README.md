@@ -1,7 +1,7 @@
 <h1 align="center"> Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Yitzi</br> 
 </h1>
 
-[![Twitter](https://img.shields.io/twitter/url?label=codegician&style=social&url=https%3A%2F%2Ftwitter.com%2Fcodegician)](url=https%3A%2F%2Ftwitter.com%2Fcodegician)
+[![Twitter](https://img.shields.io/twitter/url?label=codegician&style=social&url=https%3A%2F%2Ftwitter.com%2Fcodegician)]()
 <a href="https://linkedin.com/in/yitzi" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-00457C?logo=linkedin&logoColor=wheat" style="vertical-align:center" /></a></p>
 
 - I'm currently developing internal documentation processes and interactive coding courses for some of the worlds best developers at [Wix](https://www.wix.com/).
