@@ -1,5 +1,3 @@
-<img width="100%" src="https://credible-content.com/wp-content/uploads/2019/08/monkey-banner.gif">
-
 <h1 align="center"> Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Yitzi</br> 
 </h1>
 - I'm currently developing internal documentation processes and interactive coding courses for some of the worlds best developers at [Wix](https://www.wix.com/).
