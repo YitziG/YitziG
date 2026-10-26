@@ -5,8 +5,8 @@
 <a href="https://tiktok.com/@y.i.t.z.i" target="_blank"><img alt="" src="https://img.shields.io/badge/TikTok-%F0%9F%8E%B5-red" style="vertical-align:center" /></a>
 <a href="https://linkedin.com/in/yitzi" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-00457C?logo=linkedin&logoColor=wheat" style="vertical-align:center" /></a></p>
 
-- I'm currently developing internal documentation processes and interactive coding courses for some of the worlds best developers at [Wix](https://www.wix.com/).
+- I'm currently helping enterprise developer teams adopt secure high velocity AI workflows
+- ~~I’m currently~~ I **was** developing internal documentation processes and interactive coding courses for some of the worlds best developers at [Wix](https://www.wix.com/).
 - 🔭 ~~I’m currently~~ I **was** working on cardiological interfaces and API design for [iCardio.ai](icardio.ai). 
 I ~~am also~~ was spending lots of time on a top secret side-project that is going to make me rich! I can't say much more but here is it's current state: [![Netlify Status](https://api.netlify.com/api/v1/badges/daf9bdd0-371b-4d55-8e67-dd314356ee76/deploy-status)](https://app.netlify.com/sites/heuristic-panini-1e3e7d/deploys)
 - 👯 ~~I’m looking to~~ I love collaborating on projects at the intersection of art and technology.
-- 📫 How to reach me: [@codegician](twitter.com/codegician)
