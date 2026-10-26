@@ -13,4 +13,4 @@ A few things I’ve built and written:
 
 I enjoy projects at the intersection of art and technology, and turning things I’ve learned while building into something another developer can use.
 
-[Find me on LinkedIn](https://linkedin.com/in/yitzi).
+[Find me on LinkedIn](https://linkedin.com/in/yitzi-ginzberg).
