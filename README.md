@@ -7,8 +7,8 @@ Currently, I’m helping enterprise developer teams adopt AI workflows. Previous
 
 A few things I’ve built and written:
 
-- [WhatsApp commerce with Wix Headless](https://github.com/YitziG/wa-store): a working example connecting a conversational interface to product discovery, carts, and checkout. [The walkthrough](https://dev.to/yitzi/building-a-whatsapp-chatbot-with-wix-headless-api-a-developers-journey-5b9p) explains the implementation.
-- [An AppsFlyer SDK integration, from the developer’s side](https://medium.com/@YitziG/my-experience-with-the-appsflyer-android-sdk-91983b0a3e89): what I tried, where I got stuck, and how the developer experience could improve.
+- [Wix Headless](https://www.wix.com/blog/wix-headless): My introduction to Wix Headless, connecting the product’s capabilities to a practical WhatsApp commerce example. [Companion code](https://github.com/YitziG/wa-store).
+- [The Never-Ending Story of Model Training](https://iamondemand.com/blog/the-never-ending-story-of-model-training-a-new-chapter-for-machine-learning/): My 2020 article for IOD on reproducibility, model lineage, and the operational challenges of machine learning
 - [How Wix runs millions of end-to-end tests in the cloud](https://dev.to/aws-builders/you-missed-the-most-important-detail-in-this-video-466l): an explanation of the architecture and trade-offs behind SLED.
 
 I enjoy projects at the intersection of art and technology, and turning things I’ve learned while building into something another developer can use.
