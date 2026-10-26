@@ -1,12 +1,16 @@
 <h1 align="center"> Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Yitzi</br> 
 </h1>
 
-[![Twitter](https://img.shields.io/twitter/url?label=codegician&style=social&url=https://twitter.com/codegician)](https://twitter.com/codegician)
-<a href="https://tiktok.com/@y.i.t.z.i" target="_blank"><img alt="" src="https://img.shields.io/badge/TikTok-%F0%9F%8E%B5-red" style="vertical-align:center" /></a>
-<a href="https://linkedin.com/in/yitzi" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-00457C?logo=linkedin&logoColor=wheat" style="vertical-align:center" /></a></p>
+I build AI applications and help developers understand and use the tools they work with. My work spans software engineering, developer education, and hands-on technical writing.
 
-- I'm currently helping enterprise developer teams adopt secure high velocity AI workflows
-- ~~I’m currently~~ I **was** developing internal documentation processes and interactive coding courses for some of the worlds best developers at [Wix](https://www.wix.com/).
-- 🔭 ~~I’m currently~~ I **was** working on cardiological interfaces and API design for [iCardio.ai](icardio.ai). 
-I ~~am also~~ was spending lots of time on a top secret side-project that is going to make me rich! I can't say much more but here is it's current state: [![Netlify Status](https://api.netlify.com/api/v1/badges/daf9bdd0-371b-4d55-8e67-dd314356ee76/deploy-status)](https://app.netlify.com/sites/heuristic-panini-1e3e7d/deploys)
-- 👯 ~~I’m looking to~~ I love collaborating on projects at the intersection of art and technology.
+Currently, I’m helping enterprise developer teams adopt AI workflows. Previously at Wix, I worked on developer documentation and interactive coding courses. I’ve also worked on interfaces and API design at iCardio.ai.
+
+A few things I’ve built and written:
+
+- [WhatsApp commerce with Wix Headless](https://github.com/YitziG/wa-store): a working example connecting a conversational interface to product discovery, carts, and checkout. [The walkthrough](https://dev.to/yitzi/building-a-whatsapp-chatbot-with-wix-headless-api-a-developers-journey-5b9p) explains the implementation.
+- [An AppsFlyer SDK integration, from the developer’s side](https://medium.com/@YitziG/my-experience-with-the-appsflyer-android-sdk-91983b0a3e89): what I tried, where I got stuck, and how the developer experience could improve.
+- [How Wix runs millions of end-to-end tests in the cloud](https://medium.com/wix-engineering/how-wix-parallelizes-and-runs-millions-of-e2e-tests-in-the-cloud-774a71e22d01): an explanation of the architecture and trade-offs behind SLED.
+
+I enjoy projects at the intersection of art and technology, and turning things I’ve learned while building into something another developer can use.
+
+[Find me on LinkedIn](https://linkedin.com/in/yitzi).
